@@ -1,6 +1,15 @@
 # 💼 Salary Prediction Based on Country and Race
 
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FF7F0E?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2D3E50?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
 This project involves predicting salaries using a dataset that includes features like **country** and **race**. It uses machine learning techniques to understand how these demographic features might influence salary levels and aims to build a predictive model with reasonable accuracy.
 
 ![image](https://github.com/user-attachments/assets/3b478959-d9c0-4a56-a7d8-c0896bf3a13c)
